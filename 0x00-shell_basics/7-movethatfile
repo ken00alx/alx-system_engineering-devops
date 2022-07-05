@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-mv /tmp/betty /tmp/my_first_directory
-=======
-mv betty /tmp/my_first_directory
->>>>>>> c14ade91020c2c4081adad57346fca1093711b13
+mv /tmp/betty /tmp/my_first_directory/betty
