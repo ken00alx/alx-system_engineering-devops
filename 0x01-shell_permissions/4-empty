@@ -1,2 +1,2 @@
-#1/bin/bash
-touch hello
+#!/bin/bash
+emacs " "> hello
