@@ -4,3 +4,4 @@
 1- Prints out Hello User
 2- Add /action to the PATH. /actition
 3- Number of Directories in PATH
+4- Environment variables scripts
