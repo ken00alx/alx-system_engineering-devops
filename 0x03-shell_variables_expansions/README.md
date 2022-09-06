@@ -1,3 +1,4 @@
 #SCRIPTS ON ALIAS
 
-Script that create alias
+0- Script that create alias
+1- Prints out Hello User
